@@ -1,2 +1,3 @@
 # Spinning-dot
-CSS animation
+
+CSS animation showcasing what you can achieve with just CSS
